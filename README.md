@@ -1,2 +1,1 @@
-# ruotongzhao.dev
-Under development
+# Under development
